@@ -1,0 +1,16 @@
+.barra{
+	-fx-background-color: #855D10;
+}
+
+.spinners{
+	-fx-border-radius: 5;
+	-fx-background-radius: 5;
+	-fx-border-width: 2;
+}
+
+.botoes{
+	-fx-border-radius: 5;
+	-fx-background-radius: 5;
+	-fx-border-width: 2;
+	-fx-border-color: black;
+}
